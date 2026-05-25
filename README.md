@@ -50,6 +50,30 @@ O projeto EV ChargeOps propõe solucionar esse gargalo transformando dados bruto
 * **Opção B** — Definição do papel da IA: pesquise e documente ao menos duas abordagens de IA aplicáveis ao problema. Para cada uma, destaque o problema que resolve, a técnica envolvida, os dados necessários e o impacto esperado. Exemplos: regressão para previsão de consumo, clustering para perfis de uso, NLP para interface conversacional, detecção de anomalias, entre outros;
 * **Opção C** — Esquema da base de dados: defina e documente o esquema de dados da plataforma, como entidades (usuário, unidade, sessão e fatura), atributos, relacionamentos e exemplos de registros simulados que serão usados na sprint 02.
 
+`Substituir esse bloco pela documentacao e pesquisa para entrega`
+
+## O documento README deve conter:
+
+| ✅ Feito | ❌ Pendente |
+
+* Nome da equipe e RMs dos integrantes; ✅
+* Descrição do problema e do contexto do desafio; ✅
+* Resultado das três frentes de pesquisa, com as opções de aprofundamento escolhidas documentadas; ❌
+* Diagrama de arquitetura da solução proposta; ❌
+* Modelo de rateio definido, com critérios e variáveis; ❌
+* Papel da IA na solução; ❌
+* Plano para a sprint 02: o que será desenvolvido, em qual ordem e com quais tecnologias. ❌
+
+### Orientações para o README
+
+* Escreva em português claro e direto;
+* Use títulos, subtítulos e listas apenas onde é necessário para ajudar a organizar a leitura;
+* Evite o uso excessivo de emojis, pois um README técnico não precisa deles;
+* Inclua o diagrama de arquitetura como imagem no repositório e referencie-o no README;
+* Cite todas as fontes consultadas ao final do documento.
+
+`Excluir esse bloco para entrega`
+
 ## Fontes
 
 ## Integrantes
